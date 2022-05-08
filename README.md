@@ -5,3 +5,12 @@ A very old project from high school (2001), written in assembly for the Intel 80
 Sadly the board schematics is lost.
 
 <img src="board.jpg" width=50%>
+<img src="play_demo.gif" width=50%>
+
+<br>
+
+## A Closer Look
+<img src="left_side.jpeg" width=50%>
+<img src="right_side.jpeg" width=50%>
+<img src="left_side_back.jpeg" width=50%>
+<img src="right_side_back.jpeg" width=50%>
