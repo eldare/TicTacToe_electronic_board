@@ -2,7 +2,7 @@
 
 # TicTacToe electronic board
 A very old project from high school (2001), written in assembly for the Intel 8088 CPU.<br>
-Sadly the board schematics is lost.
+Sadly the board schematics was lost to time.
 
 <img src="board.jpg" width=50%>
 <img src="play_demo.gif" width=50%>
